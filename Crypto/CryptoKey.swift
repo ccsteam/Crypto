@@ -60,6 +60,8 @@ public extension CryptoKey {
         return selfAttributes as! [String: AnyObject]
     }
     
+    /*
+     TODO:
     /**
      The key in PEM format.
      
@@ -209,4 +211,5 @@ public extension CryptoKey {
         
         return NSData(bytes: dataBytes, length: dataBytes.count)
     }
+    */
 }

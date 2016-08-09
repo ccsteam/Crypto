@@ -20,6 +20,9 @@ github "valery-bashkatov/Crypto"
 ```
 And then follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios-tvos-or-watchos) to install the framework.
 
+## Documentation
+API Reference is located at [http://valery-bashkatov.github.io/Crypto](http://valery-bashkatov.github.io/Crypto).
+
 ## Usage
 
 ```swift
